@@ -41,14 +41,16 @@
     outline: none;
     cursor: pointer;
     padding: 14px 16px;
-    transition: 0.3s;
+    transition: all 0.3s;
 }
    
 .tab button:hover {
+    font-weight: bolder;
     border-bottom: 2px solid #BBB;
 }
    
 .tab button.active {
+    font-weight: bolder;
     background-color: #444;
     border-bottom: 2px solid #BBB;
 }

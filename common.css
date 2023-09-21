@@ -20,7 +20,7 @@
 .name:hover{
     line-height: 30px;
     transition: all 0.2s;
-    font-size: 30px;
+    transform: scale(1.05);
 }
 
 
